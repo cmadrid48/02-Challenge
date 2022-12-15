@@ -22,7 +22,7 @@ Open a Pull Request
 ## Usage
 
 
-[see final product](01-html-css-git-homework-demo.png)
+[see final product](assests/images/01-html-css-git-homework-demo.png)
 
 
 ## Credits
