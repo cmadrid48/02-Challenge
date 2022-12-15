@@ -45,7 +45,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* text style */
+/* font */
 
 a {
     color: #ffffff;
@@ -67,7 +67,7 @@ p {
     background-position: center;
 }
 
-/* float */
+/* floating elements */
 
 .float-left {
     float: left;
@@ -136,7 +136,7 @@ main {
     font-size: 36px;
 }
 
-/* footer */
+/* footers */
 
 footer {
     padding: 30px;
